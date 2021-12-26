@@ -2,7 +2,7 @@
 
 ### SSH transfer
 ```shell
-git clone --recursive -b super_scalar git@github.com:yuhanzhu612/Trigger.git
+git clone --recursive -b super_scalar git@github.com:dzwduan/Trigger.git
 
 ```
 

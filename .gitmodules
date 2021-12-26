@@ -3,7 +3,7 @@
 	url = https://gitee.com/oscpu/DRAMsim3.git
 [submodule "libraries/NEMU"]
 	path = libraries/NEMU
-	url = https://gitee.com/oscpu/NEMU.git
+	url = https://gitee.com/dzw1208/nemu2.git
 [submodule "libraries/difftest"]
 	path = libraries/difftest
 	url = https://gitee.com/oscpu/difftest.git
